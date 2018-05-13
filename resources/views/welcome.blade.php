@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hola HitHub!!!!!  asdasd
+                    Hola prueba desde otro usuario.
                 </div>
 
                 <div class="links">
